@@ -1,0 +1,17 @@
+.container-fluid {
+  padding-right: 2rem;
+  padding-left: 2rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 30px;
+  /* background-color: #686868 */
+}
+/* .container, .container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+} */
+.wrap {
+  box-sizing: border-box;
+  max-width: 1000px;
+  margin: 0 auto;
+}
